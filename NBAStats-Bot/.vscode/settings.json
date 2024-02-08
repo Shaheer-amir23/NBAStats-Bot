@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\User\\Desktop\\NBAStats-Bot-main\\json-20211205.jar"
+    ]
+}
